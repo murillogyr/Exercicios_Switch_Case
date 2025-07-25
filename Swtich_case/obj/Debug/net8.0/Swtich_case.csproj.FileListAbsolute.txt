@@ -1,0 +1,14 @@
+C:\Users\rillo\source\repos\Swtich_case\Swtich_case\bin\Debug\net8.0\Swtich_case.exe
+C:\Users\rillo\source\repos\Swtich_case\Swtich_case\bin\Debug\net8.0\Swtich_case.deps.json
+C:\Users\rillo\source\repos\Swtich_case\Swtich_case\bin\Debug\net8.0\Swtich_case.runtimeconfig.json
+C:\Users\rillo\source\repos\Swtich_case\Swtich_case\bin\Debug\net8.0\Swtich_case.dll
+C:\Users\rillo\source\repos\Swtich_case\Swtich_case\bin\Debug\net8.0\Swtich_case.pdb
+C:\Users\rillo\source\repos\Swtich_case\Swtich_case\obj\Debug\net8.0\Swtich_case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rillo\source\repos\Swtich_case\Swtich_case\obj\Debug\net8.0\Swtich_case.AssemblyInfoInputs.cache
+C:\Users\rillo\source\repos\Swtich_case\Swtich_case\obj\Debug\net8.0\Swtich_case.AssemblyInfo.cs
+C:\Users\rillo\source\repos\Swtich_case\Swtich_case\obj\Debug\net8.0\Swtich_case.csproj.CoreCompileInputs.cache
+C:\Users\rillo\source\repos\Swtich_case\Swtich_case\obj\Debug\net8.0\Swtich_case.dll
+C:\Users\rillo\source\repos\Swtich_case\Swtich_case\obj\Debug\net8.0\refint\Swtich_case.dll
+C:\Users\rillo\source\repos\Swtich_case\Swtich_case\obj\Debug\net8.0\Swtich_case.pdb
+C:\Users\rillo\source\repos\Swtich_case\Swtich_case\obj\Debug\net8.0\Swtich_case.genruntimeconfig.cache
+C:\Users\rillo\source\repos\Swtich_case\Swtich_case\obj\Debug\net8.0\ref\Swtich_case.dll
